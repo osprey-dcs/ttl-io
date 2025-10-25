@@ -220,7 +220,7 @@
 				)
 			)
 		)
-		(property "Description" "10 kOhms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Moisture Resistant Thick Film"
+		(property "Description" "1 kOhms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Moisture Resistant Thick Film"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -233,7 +233,7 @@
 				)
 			)
 		)
-		(property "Digikey" "311-10.0KHRCT-ND"
+		(property "Digikey" "YAG1294TR-ND"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -246,7 +246,7 @@
 				)
 			)
 		)
-		(property "MPN" "RC0603FR-0710KL"
+		(property "MPN" "RC0603FR-071KP"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -484,7 +484,7 @@
 				)
 			)
 		)
-		(property "MPN" "SN74LVC3G34DCUR"
+		(property "MPN" "SN74LVC3G34DCTR"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -794,7 +794,7 @@
 				)
 			)
 		)
-		(property "MPN" "SN74LVC3G34DCUR"
+		(property "MPN" "SN74LVC3G34DCTR"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -1054,7 +1054,7 @@
 				)
 			)
 		)
-		(property "Value" "143"
+		(property "Value" "10"
 			(at 0 -1.25 90)
 			(layer "F.Fab")
 			(uuid "0ae354a1-ad54-491b-883c-27cb6fcddcfa")
@@ -1065,7 +1065,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.yageo.com/upload/media/product/products/datasheet/rchip/PYu-RC_Group_51_RoHS_L_12.pdf"
+		(property "Datasheet" "https://www.yageogroup.com/content/datasheet/asset/file/PYU-RC_GROUP_51_ROHS_L"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -1078,7 +1078,7 @@
 				)
 			)
 		)
-		(property "Description" "1 kOhms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Moisture Resistant Thick Film"
+		(property "Description" "10 Ohms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Moisture Resistant Thick Film"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -1091,7 +1091,7 @@
 				)
 			)
 		)
-		(property "Digikey" "311-1.00KCRTR-ND"
+		(property "Digikey" "13-RC0603FR-1310RLTR-ND"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -1104,7 +1104,7 @@
 				)
 			)
 		)
-		(property "MPN" "RC0603FR-071KL"
+		(property "MPN" "RC0603FR-1310RL"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -1281,7 +1281,7 @@
 				)
 			)
 		)
-		(property "Value" "143"
+		(property "Value" "10"
 			(at 0 -1.25 90)
 			(layer "F.Fab")
 			(uuid "777fc6c2-2e04-4e5f-81fa-5d6f5431523e")
@@ -1292,7 +1292,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.yageo.com/upload/media/product/products/datasheet/rchip/PYu-RC_Group_51_RoHS_L_12.pdf"
+		(property "Datasheet" "https://www.yageogroup.com/content/datasheet/asset/file/PYU-RC_GROUP_51_ROHS_L"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -1305,7 +1305,7 @@
 				)
 			)
 		)
-		(property "Description" "1 kOhms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Moisture Resistant Thick Film"
+		(property "Description" "10 Ohms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Moisture Resistant Thick Film"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -1318,7 +1318,7 @@
 				)
 			)
 		)
-		(property "Digikey" "311-1.00KCRTR-ND"
+		(property "Digikey" "13-RC0603FR-1310RLTR-ND"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -1331,7 +1331,7 @@
 				)
 			)
 		)
-		(property "MPN" "RC0603FR-071KL"
+		(property "MPN" "RC0603FR-1310RL"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -1508,7 +1508,7 @@
 				)
 			)
 		)
-		(property "Value" "143"
+		(property "Value" "10"
 			(at 0 -1.25 90)
 			(layer "F.Fab")
 			(uuid "d9d42f1d-c7b0-41cc-9a89-eb44c263bf38")
@@ -1519,7 +1519,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.yageo.com/upload/media/product/products/datasheet/rchip/PYu-RC_Group_51_RoHS_L_12.pdf"
+		(property "Datasheet" "https://www.yageogroup.com/content/datasheet/asset/file/PYU-RC_GROUP_51_ROHS_L"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -1532,7 +1532,7 @@
 				)
 			)
 		)
-		(property "Description" "1 kOhms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Moisture Resistant Thick Film"
+		(property "Description" "10 Ohms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Moisture Resistant Thick Film"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -1545,7 +1545,7 @@
 				)
 			)
 		)
-		(property "Digikey" "311-1.00KCRTR-ND"
+		(property "Digikey" "13-RC0603FR-1310RLTR-ND"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -1558,7 +1558,7 @@
 				)
 			)
 		)
-		(property "MPN" "RC0603FR-071KL"
+		(property "MPN" "RC0603FR-1310RL"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -1759,7 +1759,7 @@
 				)
 			)
 		)
-		(property "Description" "10 kOhms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Moisture Resistant Thick Film"
+		(property "Description" "1 kOhms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Moisture Resistant Thick Film"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -1772,7 +1772,7 @@
 				)
 			)
 		)
-		(property "Digikey" "311-10.0KHRCT-ND"
+		(property "Digikey" "YAG1294TR-ND"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -1785,7 +1785,7 @@
 				)
 			)
 		)
-		(property "MPN" "RC0603FR-0710KL"
+		(property "MPN" "RC0603FR-071KP"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -1973,7 +1973,7 @@
 				)
 			)
 		)
-		(property "Value" "143"
+		(property "Value" "10"
 			(at 0 -1.25 90)
 			(layer "F.Fab")
 			(uuid "eb198de9-5cb7-4636-986d-45ded6286850")
@@ -1984,7 +1984,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.yageo.com/upload/media/product/products/datasheet/rchip/PYu-RC_Group_51_RoHS_L_12.pdf"
+		(property "Datasheet" "https://www.yageogroup.com/content/datasheet/asset/file/PYU-RC_GROUP_51_ROHS_L"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -1997,7 +1997,7 @@
 				)
 			)
 		)
-		(property "Description" "1 kOhms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Moisture Resistant Thick Film"
+		(property "Description" "10 Ohms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Moisture Resistant Thick Film"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -2010,7 +2010,7 @@
 				)
 			)
 		)
-		(property "Digikey" "311-1.00KCRTR-ND"
+		(property "Digikey" "13-RC0603FR-1310RLTR-ND"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -2023,7 +2023,7 @@
 				)
 			)
 		)
-		(property "MPN" "RC0603FR-071KL"
+		(property "MPN" "RC0603FR-1310RL"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -2200,7 +2200,7 @@
 				)
 			)
 		)
-		(property "Value" "143"
+		(property "Value" "10"
 			(at 0 -1.25 90)
 			(layer "F.Fab")
 			(uuid "afd25cd0-73b1-4cb5-93e6-c36f6d40b253")
@@ -2211,7 +2211,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.yageo.com/upload/media/product/products/datasheet/rchip/PYu-RC_Group_51_RoHS_L_12.pdf"
+		(property "Datasheet" "https://www.yageogroup.com/content/datasheet/asset/file/PYU-RC_GROUP_51_ROHS_L"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -2224,7 +2224,7 @@
 				)
 			)
 		)
-		(property "Description" "1 kOhms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Moisture Resistant Thick Film"
+		(property "Description" "10 Ohms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Moisture Resistant Thick Film"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -2237,7 +2237,7 @@
 				)
 			)
 		)
-		(property "Digikey" "311-1.00KCRTR-ND"
+		(property "Digikey" "13-RC0603FR-1310RLTR-ND"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -2250,7 +2250,7 @@
 				)
 			)
 		)
-		(property "MPN" "RC0603FR-071KL"
+		(property "MPN" "RC0603FR-1310RL"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -2427,7 +2427,7 @@
 				)
 			)
 		)
-		(property "Value" "143"
+		(property "Value" "10"
 			(at 0 -1.25 90)
 			(layer "F.Fab")
 			(uuid "a6569dae-a6de-4a3c-a367-afa2c3aeae6c")
@@ -2438,7 +2438,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.yageo.com/upload/media/product/products/datasheet/rchip/PYu-RC_Group_51_RoHS_L_12.pdf"
+		(property "Datasheet" "https://www.yageogroup.com/content/datasheet/asset/file/PYU-RC_GROUP_51_ROHS_L"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -2451,7 +2451,7 @@
 				)
 			)
 		)
-		(property "Description" "1 kOhms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Moisture Resistant Thick Film"
+		(property "Description" "10 Ohms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Moisture Resistant Thick Film"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -2464,7 +2464,7 @@
 				)
 			)
 		)
-		(property "Digikey" "311-1.00KCRTR-ND"
+		(property "Digikey" "13-RC0603FR-1310RLTR-ND"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -2477,7 +2477,7 @@
 				)
 			)
 		)
-		(property "MPN" "RC0603FR-071KL"
+		(property "MPN" "RC0603FR-1310RL"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -2654,7 +2654,7 @@
 				)
 			)
 		)
-		(property "Value" "50k"
+		(property "Value" "49.9k"
 			(at 0 1 0)
 			(layer "F.Fab")
 			(uuid "9360bc92-ea86-4316-bc4a-864f5736838c")
@@ -2665,7 +2665,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.yageo.com/upload/media/product/products/datasheet/rchip/PYu-RC_Group_51_RoHS_L_12.pdf"
+		(property "Datasheet" "https://www.yageogroup.com/content/datasheet/asset/file/PYU-RC_GROUP_51_ROHS_L"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -2678,7 +2678,7 @@
 				)
 			)
 		)
-		(property "Description" "10 kOhms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Moisture Resistant Thick Film"
+		(property "Description" "49.9 kOhms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Moisture Resistant Thick Film"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -2691,7 +2691,7 @@
 				)
 			)
 		)
-		(property "Digikey" "311-10.0KHRCT-ND"
+		(property "Digikey" "13-RC0603FR-1349K9LTR-ND"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -2704,7 +2704,7 @@
 				)
 			)
 		)
-		(property "MPN" "RC0603FR-0710KL"
+		(property "MPN" "RC0603FR-1349K9L"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -2892,7 +2892,7 @@
 				)
 			)
 		)
-		(property "Value" "50k"
+		(property "Value" "49.9k"
 			(at -0.25 1 0)
 			(layer "F.Fab")
 			(uuid "4c31461c-44c7-4c4b-bb04-8aad76197120")
@@ -2903,7 +2903,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.yageo.com/upload/media/product/products/datasheet/rchip/PYu-RC_Group_51_RoHS_L_12.pdf"
+		(property "Datasheet" "https://www.yageogroup.com/content/datasheet/asset/file/PYU-RC_GROUP_51_ROHS_L"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -2916,7 +2916,7 @@
 				)
 			)
 		)
-		(property "Description" "10 kOhms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Moisture Resistant Thick Film"
+		(property "Description" "49.9 kOhms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Moisture Resistant Thick Film"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -2929,7 +2929,7 @@
 				)
 			)
 		)
-		(property "Digikey" "311-10.0KHRCT-ND"
+		(property "Digikey" "13-RC0603FR-1349K9LTR-ND"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -2942,7 +2942,7 @@
 				)
 			)
 		)
-		(property "MPN" "RC0603FR-0710KL"
+		(property "MPN" "RC0603FR-1349K9L"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -3130,7 +3130,7 @@
 				)
 			)
 		)
-		(property "Value" "50k"
+		(property "Value" "49.9k"
 			(at -0.275 1 0)
 			(layer "F.Fab")
 			(uuid "cdd80e3a-8aa2-488e-a544-5e1d77a0744c")
@@ -3141,7 +3141,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.yageo.com/upload/media/product/products/datasheet/rchip/PYu-RC_Group_51_RoHS_L_12.pdf"
+		(property "Datasheet" "https://www.yageogroup.com/content/datasheet/asset/file/PYU-RC_GROUP_51_ROHS_L"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -3154,7 +3154,7 @@
 				)
 			)
 		)
-		(property "Description" "10 kOhms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Moisture Resistant Thick Film"
+		(property "Description" "49.9 kOhms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Moisture Resistant Thick Film"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -3167,7 +3167,7 @@
 				)
 			)
 		)
-		(property "Digikey" "311-10.0KHRCT-ND"
+		(property "Digikey" "13-RC0603FR-1349K9LTR-ND"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -3180,7 +3180,7 @@
 				)
 			)
 		)
-		(property "MPN" "RC0603FR-0710KL"
+		(property "MPN" "RC0603FR-1349K9L"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -3368,7 +3368,7 @@
 				)
 			)
 		)
-		(property "Value" "143"
+		(property "Value" "10"
 			(at 0 -1.25 90)
 			(layer "F.Fab")
 			(uuid "c49b25d1-431f-4c62-9c09-31acc61c643f")
@@ -3379,7 +3379,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.yageo.com/upload/media/product/products/datasheet/rchip/PYu-RC_Group_51_RoHS_L_12.pdf"
+		(property "Datasheet" "https://www.yageogroup.com/content/datasheet/asset/file/PYU-RC_GROUP_51_ROHS_L"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -3392,7 +3392,7 @@
 				)
 			)
 		)
-		(property "Description" "1 kOhms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Moisture Resistant Thick Film"
+		(property "Description" "10 Ohms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Moisture Resistant Thick Film"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -3405,7 +3405,7 @@
 				)
 			)
 		)
-		(property "Digikey" "311-1.00KCRTR-ND"
+		(property "Digikey" "13-RC0603FR-1310RLTR-ND"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -3418,7 +3418,7 @@
 				)
 			)
 		)
-		(property "MPN" "RC0603FR-071KL"
+		(property "MPN" "RC0603FR-1310RL"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -4048,7 +4048,7 @@
 				)
 			)
 		)
-		(property "Value" "50k"
+		(property "Value" "49.9k"
 			(at -0.25 1 0)
 			(layer "F.Fab")
 			(uuid "b0e021b4-cfc9-4796-9639-c0e9ee3115c1")
@@ -4059,7 +4059,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.yageo.com/upload/media/product/products/datasheet/rchip/PYu-RC_Group_51_RoHS_L_12.pdf"
+		(property "Datasheet" "https://www.yageogroup.com/content/datasheet/asset/file/PYU-RC_GROUP_51_ROHS_L"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -4072,7 +4072,7 @@
 				)
 			)
 		)
-		(property "Description" "10 kOhms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Moisture Resistant Thick Film"
+		(property "Description" "49.9 kOhms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Moisture Resistant Thick Film"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -4085,7 +4085,7 @@
 				)
 			)
 		)
-		(property "Digikey" "311-10.0KHRCT-ND"
+		(property "Digikey" "13-RC0603FR-1349K9LTR-ND"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -4098,7 +4098,7 @@
 				)
 			)
 		)
-		(property "MPN" "RC0603FR-0710KL"
+		(property "MPN" "RC0603FR-1349K9L"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -5096,7 +5096,7 @@
 				)
 			)
 		)
-		(property "Value" "143"
+		(property "Value" "10"
 			(at 0 -1.25 90)
 			(layer "F.Fab")
 			(uuid "bbe912d1-fd74-4af1-94ad-ffadf009cd66")
@@ -5107,7 +5107,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.yageo.com/upload/media/product/products/datasheet/rchip/PYu-RC_Group_51_RoHS_L_12.pdf"
+		(property "Datasheet" "https://www.yageogroup.com/content/datasheet/asset/file/PYU-RC_GROUP_51_ROHS_L"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -5120,7 +5120,7 @@
 				)
 			)
 		)
-		(property "Description" "1 kOhms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Moisture Resistant Thick Film"
+		(property "Description" "10 Ohms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Moisture Resistant Thick Film"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -5133,7 +5133,7 @@
 				)
 			)
 		)
-		(property "Digikey" "311-1.00KCRTR-ND"
+		(property "Digikey" "13-RC0603FR-1310RLTR-ND"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -5146,7 +5146,7 @@
 				)
 			)
 		)
-		(property "MPN" "RC0603FR-071KL"
+		(property "MPN" "RC0603FR-1310RL"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -5561,7 +5561,7 @@
 				)
 			)
 		)
-		(property "Value" "143"
+		(property "Value" "10"
 			(at 0 -1.25 90)
 			(layer "F.Fab")
 			(uuid "8eb9b186-100c-428d-a794-16271a16cb96")
@@ -5572,7 +5572,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.yageo.com/upload/media/product/products/datasheet/rchip/PYu-RC_Group_51_RoHS_L_12.pdf"
+		(property "Datasheet" "https://www.yageogroup.com/content/datasheet/asset/file/PYU-RC_GROUP_51_ROHS_L"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -5585,7 +5585,7 @@
 				)
 			)
 		)
-		(property "Description" "1 kOhms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Moisture Resistant Thick Film"
+		(property "Description" "10 Ohms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Moisture Resistant Thick Film"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -5598,7 +5598,7 @@
 				)
 			)
 		)
-		(property "Digikey" "311-1.00KCRTR-ND"
+		(property "Digikey" "13-RC0603FR-1310RLTR-ND"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -5611,7 +5611,7 @@
 				)
 			)
 		)
-		(property "MPN" "RC0603FR-071KL"
+		(property "MPN" "RC0603FR-1310RL"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -6208,7 +6208,7 @@
 				)
 			)
 		)
-		(property "MPN" "SN74LVC3G34DCUR"
+		(property "MPN" "SN74LVC3G34DCTR"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -7446,7 +7446,7 @@
 				)
 			)
 		)
-		(property "Value" "143"
+		(property "Value" "10"
 			(at 0 -1.25 90)
 			(layer "F.Fab")
 			(uuid "fb6ab36c-b8f0-4e6e-8b92-1c3de318c1e5")
@@ -7457,7 +7457,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.yageo.com/upload/media/product/products/datasheet/rchip/PYu-RC_Group_51_RoHS_L_12.pdf"
+		(property "Datasheet" "https://www.yageogroup.com/content/datasheet/asset/file/PYU-RC_GROUP_51_ROHS_L"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -7470,7 +7470,7 @@
 				)
 			)
 		)
-		(property "Description" "1 kOhms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Moisture Resistant Thick Film"
+		(property "Description" "10 Ohms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Moisture Resistant Thick Film"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -7483,7 +7483,7 @@
 				)
 			)
 		)
-		(property "Digikey" "311-1.00KCRTR-ND"
+		(property "Digikey" "13-RC0603FR-1310RLTR-ND"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -7496,7 +7496,7 @@
 				)
 			)
 		)
-		(property "MPN" "RC0603FR-071KL"
+		(property "MPN" "RC0603FR-1310RL"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -7673,7 +7673,7 @@
 				)
 			)
 		)
-		(property "Value" "143"
+		(property "Value" "10"
 			(at 0 -1.25 90)
 			(layer "F.Fab")
 			(uuid "56f06d7b-b1d2-46b8-9e37-b5815b858596")
@@ -7684,7 +7684,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.yageo.com/upload/media/product/products/datasheet/rchip/PYu-RC_Group_51_RoHS_L_12.pdf"
+		(property "Datasheet" "https://www.yageogroup.com/content/datasheet/asset/file/PYU-RC_GROUP_51_ROHS_L"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -7697,7 +7697,7 @@
 				)
 			)
 		)
-		(property "Description" "1 kOhms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Moisture Resistant Thick Film"
+		(property "Description" "10 Ohms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Moisture Resistant Thick Film"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -7710,7 +7710,7 @@
 				)
 			)
 		)
-		(property "Digikey" "311-1.00KCRTR-ND"
+		(property "Digikey" "13-RC0603FR-1310RLTR-ND"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -7723,7 +7723,7 @@
 				)
 			)
 		)
-		(property "MPN" "RC0603FR-071KL"
+		(property "MPN" "RC0603FR-1310RL"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -9444,7 +9444,7 @@
 				)
 			)
 		)
-		(property "Description" "10 kOhms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Moisture Resistant Thick Film"
+		(property "Description" "1 kOhms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Moisture Resistant Thick Film"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -9457,7 +9457,7 @@
 				)
 			)
 		)
-		(property "Digikey" "311-10.0KHRCT-ND"
+		(property "Digikey" "YAG1294TR-ND"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -9470,7 +9470,7 @@
 				)
 			)
 		)
-		(property "MPN" "RC0603FR-0710KL"
+		(property "MPN" "RC0603FR-071KP"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -10603,7 +10603,7 @@
 				)
 			)
 		)
-		(property "MPN" "SN74LVC3G34DCUR"
+		(property "MPN" "SN74LVC3G34DCTR"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -11305,7 +11305,7 @@
 				)
 			)
 		)
-		(property "Value" "143"
+		(property "Value" "10"
 			(at 0 -1.25 90)
 			(layer "F.Fab")
 			(uuid "9114fd47-34d1-4fbb-8c50-62bf89d942df")
@@ -11316,7 +11316,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.yageo.com/upload/media/product/products/datasheet/rchip/PYu-RC_Group_51_RoHS_L_12.pdf"
+		(property "Datasheet" "https://www.yageogroup.com/content/datasheet/asset/file/PYU-RC_GROUP_51_ROHS_L"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -11329,7 +11329,7 @@
 				)
 			)
 		)
-		(property "Description" "1 kOhms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Moisture Resistant Thick Film"
+		(property "Description" "10 Ohms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Moisture Resistant Thick Film"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -11342,7 +11342,7 @@
 				)
 			)
 		)
-		(property "Digikey" "311-1.00KCRTR-ND"
+		(property "Digikey" "13-RC0603FR-1310RLTR-ND"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -11355,7 +11355,7 @@
 				)
 			)
 		)
-		(property "MPN" "RC0603FR-071KL"
+		(property "MPN" "RC0603FR-1310RL"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -12463,7 +12463,7 @@
 				)
 			)
 		)
-		(property "Description" "10 kOhms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Moisture Resistant Thick Film"
+		(property "Description" "1 kOhms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Moisture Resistant Thick Film"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -12476,7 +12476,7 @@
 				)
 			)
 		)
-		(property "Digikey" "311-10.0KHRCT-ND"
+		(property "Digikey" "YAG1294TR-ND"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -12489,7 +12489,7 @@
 				)
 			)
 		)
-		(property "MPN" "RC0603FR-0710KL"
+		(property "MPN" "RC0603FR-071KP"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -12963,7 +12963,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Digikey" "311-1.00KCRTR-ND"
+		(property "Digikey" "YAG1294TR-ND"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -12977,7 +12977,7 @@
 				(justify mirror)
 			)
 		)
-		(property "MPN" "RC0603FR-071KL"
+		(property "MPN" "RC0603FR-071KP"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
