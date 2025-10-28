@@ -185,10 +185,10 @@
 		(at 150.275 78.25)
 		(descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor")
-		(property "Reference" "R13"
+		(property "Reference" "R11"
 			(at -2.025 0 90)
 			(layer "F.SilkS")
-			(uuid "15df8dcf-2e63-4f78-8f62-ca69dbc98d65")
+			(uuid "11bc9d95-e846-4d64-9670-c3e96853024b")
 			(effects
 				(font
 					(size 1 1)
@@ -199,7 +199,7 @@
 		(property "Value" "1k"
 			(at -0.025 1 0)
 			(layer "F.Fab")
-			(uuid "1d9d7c30-4e1a-4406-9367-4958aa692752")
+			(uuid "7b29e752-db86-4c76-9c09-20fdb3483b7e")
 			(effects
 				(font
 					(size 1 1)
@@ -207,12 +207,12 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.yageo.com/upload/media/product/products/datasheet/rchip/PYu-RC_Group_51_RoHS_L_12.pdf"
+		(property "Datasheet" "https://www.yageogroup.com/content/datasheet/asset/file/PYU-RC_51_ROHS_P"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "4b2b9d40-7660-4dad-9a3a-95dd36c81fc0")
+			(uuid "afcf1b35-be56-45f7-83d6-ba37c3b27618")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -225,7 +225,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "b6600e98-a25a-4498-b659-8dd274662436")
+			(uuid "7561441a-04c7-4d89-8aab-52ca3521fccb")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -435,7 +435,7 @@
 			)
 		)
 		(property "Value" "SN74LVC3G34DCT"
-			(at -0.25 2.5 0)
+			(at 0.5 2.5 0)
 			(layer "F.Fab")
 			(uuid "f74e9897-30ee-4cca-b9ac-360c31773b9b")
 			(effects
@@ -1491,6 +1491,199 @@
 			)
 		)
 	)
+	(footprint "0local:TestPoint_Loop_D1.80mm_Drill1.0mm_Beaded"
+		(layer "F.Cu")
+		(uuid "2c817a6c-7938-4680-9258-45756c0e2c0f")
+		(at 130 72.5)
+		(descr "wire loop with bead as test point, loop diameter 1.8mm, hole diameter 1.0mm")
+		(tags "test point wire loop bead")
+		(property "Reference" "TP1"
+			(at 0 3.5 0)
+			(layer "F.SilkS")
+			(uuid "fb0e5b35-adbf-429e-a498-cc3ac08390b2")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Value" "TestPointRed"
+			(at -1.75 2.5 90)
+			(layer "F.Fab")
+			(uuid "298dabbc-c9ab-423c-a161-619a77332945")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Datasheet" "https://www.keyelco.com/userAssets/file/M65p56.pdf"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "bc4f6592-b890-4080-bb01-7f6c5ff4e24d")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Description" "Red PC Test Point, Miniature Phosphor Bronze Silver Plating Through Hole Mounting Type"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "63dc397b-8d49-4681-a11a-6a99de69d7ae")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Digikey" "36-5000-ND"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "671a7b91-39fe-4171-9cad-57385fdb5669")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "5000"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "5ae9436f-61d7-4502-a1fc-eaa18faaba45")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property ki_fp_filters "Pin* Test*")
+		(path "/f2a61af5-4a36-43b4-89e5-ac5e71cabef4")
+		(sheetname "/")
+		(sheetfile "ttl-io.kicad_sch")
+		(attr through_hole)
+		(fp_circle
+			(center 0 0)
+			(end 1.5 0)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(fill no)
+			(layer "F.SilkS")
+			(uuid "109996fd-4b72-44d3-b28f-e411e7628338")
+		)
+		(fp_circle
+			(center 0 0)
+			(end 1.8 0)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(fill no)
+			(layer "F.CrtYd")
+			(uuid "f3f2e821-3a2b-46ff-b01e-d915a10eb2ce")
+		)
+		(fp_line
+			(start -0.9 -0.2)
+			(end 0.9 -0.2)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "5bbd899a-5220-4a92-b9db-111c15348cd8")
+		)
+		(fp_line
+			(start -0.9 0.2)
+			(end -0.9 -0.2)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "475e9162-572f-4397-a569-f66142ffe875")
+		)
+		(fp_line
+			(start 0.9 -0.2)
+			(end 0.9 0.2)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "d5bc8039-5503-4b8c-bce5-01b9daa23e66")
+		)
+		(fp_line
+			(start 0.9 0.2)
+			(end -0.9 0.2)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "065d9c8b-a8f3-4e02-b162-8b5c303e51f7")
+		)
+		(fp_circle
+			(center 0 0)
+			(end 1.3 0)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(fill no)
+			(layer "F.Fab")
+			(uuid "94ed7ac6-596a-41b8-9c3b-4c2d61095b90")
+		)
+		(fp_text user "${REFERENCE}"
+			(at 0 3.5 0)
+			(layer "F.Fab")
+			(uuid "c4a35c57-3e36-4df1-baf5-c3fc8bcccea1")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(pad "1" thru_hole circle
+			(at 0 0)
+			(size 2 2)
+			(drill 1)
+			(layers "*.Cu" "*.Mask")
+			(remove_unused_layers no)
+			(net 2 "+3.3V")
+			(pinfunction "1")
+			(pintype "passive")
+			(uuid "fd4c56b3-0636-412f-8a27-9a3383ee3ec6")
+		)
+		(embedded_fonts no)
+		(model "${KICAD8_3DMODEL_DIR}/TestPoint.3dshapes/TestPoint_Loop_D1.80mm_Drill1.0mm_Beaded.wrl"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
+	)
 	(footprint "0local:R_0805_2012Metric"
 		(layer "F.Cu")
 		(uuid "2ccc5fe2-1a0a-4ac7-ae08-7bf88186676c")
@@ -1724,10 +1917,10 @@
 		(at 162.75 73.75)
 		(descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor")
-		(property "Reference" "R11"
+		(property "Reference" "R10"
 			(at -2 0 90)
 			(layer "F.SilkS")
-			(uuid "486b9ee2-1539-4f45-b7c6-79326048a5dd")
+			(uuid "1838df62-499a-4299-bc50-cd0585e8f60c")
 			(effects
 				(font
 					(size 1 1)
@@ -1738,7 +1931,7 @@
 		(property "Value" "1k"
 			(at 1.75 0 0)
 			(layer "F.Fab")
-			(uuid "93ead9ed-f5b2-463d-8184-094518763a4d")
+			(uuid "344229a9-60fc-4d4f-be12-a079e1a769f0")
 			(effects
 				(font
 					(size 1 1)
@@ -1746,12 +1939,12 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.yageo.com/upload/media/product/products/datasheet/rchip/PYu-RC_Group_51_RoHS_L_12.pdf"
+		(property "Datasheet" "https://www.yageogroup.com/content/datasheet/asset/file/PYU-RC_51_ROHS_P"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "1ad65967-3a2f-4ce2-bbe1-1cd9336a3785")
+			(uuid "825661c0-cc79-4567-91ef-89bb2b030ab5")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1764,7 +1957,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "f7cea0d1-d3cf-499b-ae49-e6f93a0edd6d")
+			(uuid "b3a6fad8-3f22-4f02-b0b9-4cca09e594c0")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2643,10 +2836,10 @@
 		(at 150.25 71.75)
 		(descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor")
-		(property "Reference" "R10"
+		(property "Reference" "R13"
 			(at 2 0 270)
 			(layer "F.SilkS")
-			(uuid "3ed1f94e-3dae-4419-a472-0b6a3f096ce1")
+			(uuid "b3cdb7e7-f70a-4f92-b242-74b8df34f630")
 			(effects
 				(font
 					(size 1 1)
@@ -2657,7 +2850,7 @@
 		(property "Value" "49.9k"
 			(at 0 1 0)
 			(layer "F.Fab")
-			(uuid "9360bc92-ea86-4316-bc4a-864f5736838c")
+			(uuid "036deebc-3b89-4633-9309-02aebe4203ed")
 			(effects
 				(font
 					(size 1 1)
@@ -2670,7 +2863,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "a0d1b1a5-318e-4442-a3a7-84a33ef67487")
+			(uuid "571e070f-5d95-419b-ae33-a0ddc542859a")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2683,7 +2876,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "78bfeaa4-8ec9-4708-b44f-60b1503f140a")
+			(uuid "c5cf5c2a-b72f-4b0e-b011-37f6672b4f32")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3119,10 +3312,10 @@
 		(at 150.275 76.25)
 		(descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor")
-		(property "Reference" "R14"
+		(property "Reference" "R15"
 			(at 1.975 0 90)
 			(layer "F.SilkS")
-			(uuid "2eec3b68-6430-4a62-ad57-352b81453d69")
+			(uuid "e5e8fcad-63a8-47ad-a11d-e144a407059f")
 			(effects
 				(font
 					(size 1 1)
@@ -3133,7 +3326,7 @@
 		(property "Value" "49.9k"
 			(at -0.275 1 0)
 			(layer "F.Fab")
-			(uuid "cdd80e3a-8aa2-488e-a544-5e1d77a0744c")
+			(uuid "92ec225b-56c8-45ab-9bfa-f4e2e23a30e8")
 			(effects
 				(font
 					(size 1 1)
@@ -3146,7 +3339,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "88a3c4ae-5ef0-477a-9760-1a1cd66827a3")
+			(uuid "a9492bd4-1df6-4021-a411-83680ce84dc3")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3159,7 +3352,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "42671776-e7cd-411d-aeee-482617d20217")
+			(uuid "79478c88-884e-4720-9c28-8ea349609345")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3957,7 +4150,7 @@
 			(unlocked yes)
 			(layer "F.SilkS")
 			(hide yes)
-			(uuid "8b8b7cc8-a158-48bf-9b2d-97e330fc10cd")
+			(uuid "f65d1a39-6390-4f31-ad9e-a19f6304151c")
 			(effects
 				(font
 					(size 1 1)
@@ -3970,7 +4163,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "d861be2c-2656-4cce-ae8f-2e00d6cfa61b")
+			(uuid "4ec98efb-ccf6-4bd9-8c0e-70892e06ee19")
 			(effects
 				(font
 					(size 1 1)
@@ -3983,7 +4176,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "ec603fc7-bddf-410c-b364-759dc8598aea")
+			(uuid "2740502f-ab89-4a72-ab18-c5d9dd51a1d5")
 			(effects
 				(font
 					(size 1 1)
@@ -3996,7 +4189,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "243148e9-228c-453f-b0ba-3e8435f30e38")
+			(uuid "459b4a01-5c94-46ef-9dbd-94790566f31f")
 			(effects
 				(font
 					(size 1 1)
@@ -4020,7 +4213,7 @@
 		(path "/ccac9665-d3cc-416c-a12e-b3ca7fcba282")
 		(sheetname "/")
 		(sheetfile "ttl-io.kicad_sch")
-		(attr smd)
+		(attr smd exclude_from_bom)
 		(pad "" np_thru_hole oval
 			(at 0 0)
 			(size 5 3)
@@ -4037,10 +4230,10 @@
 		(at 162.75 71.75)
 		(descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor")
-		(property "Reference" "R12"
+		(property "Reference" "R14"
 			(at 2 0 90)
 			(layer "F.SilkS")
-			(uuid "d9639b29-f59c-44df-95e3-a0c884f4cef1")
+			(uuid "03b2881b-f4c8-481c-9e97-aa630eeb3666")
 			(effects
 				(font
 					(size 1 1)
@@ -4051,7 +4244,7 @@
 		(property "Value" "49.9k"
 			(at -0.25 1 0)
 			(layer "F.Fab")
-			(uuid "b0e021b4-cfc9-4796-9639-c0e9ee3115c1")
+			(uuid "06a2a9a1-91d1-41b3-868d-6a69eb832647")
 			(effects
 				(font
 					(size 1 1)
@@ -4064,7 +4257,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "780d0765-956b-4c4d-a810-e1115522f89e")
+			(uuid "05d4d20f-c7a0-4edf-9bbe-810da502cc44")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4077,7 +4270,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "b120284c-99ca-4cab-b3b4-8321066d15a4")
+			(uuid "c447b075-43e0-4282-9c36-1fb849da464e")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4603,6 +4796,199 @@
 		)
 		(embedded_fonts no)
 	)
+	(footprint "0local:TestPoint_Loop_D1.80mm_Drill1.0mm_Beaded"
+		(layer "F.Cu")
+		(uuid "72f03b82-4607-4c5a-b2bd-3c40fcdeb9dc")
+		(at 130 97.5)
+		(descr "wire loop with bead as test point, loop diameter 1.8mm, hole diameter 1.0mm")
+		(tags "test point wire loop bead")
+		(property "Reference" "TP2"
+			(at 0 -3.5 0)
+			(layer "F.SilkS")
+			(uuid "e0257b34-d1b3-4ab6-810e-ef4d0a487aab")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Value" "TestPointBlack"
+			(at -1.75 -3 90)
+			(layer "F.Fab")
+			(uuid "10cddc3d-7a88-41bc-80d6-19e7cf264487")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Datasheet" "https://www.keyelco.com/userAssets/file/M65p56.pdf"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "9ede5019-a88e-4653-99aa-d34e3c6ae2fc")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Description" "Black PC Test Point, Miniature Phosphor Bronze Silver Plating Through Hole Mounting Type"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f365a09a-9436-4d0c-96eb-ca771f388c57")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Digikey" "36-5001-ND"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "73cfe642-001c-476b-94fe-ac6f2eff8f21")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "5001"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f4d8a809-ca81-4c8b-922e-ce487004a537")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property ki_fp_filters "Pin* Test*")
+		(path "/105a8ca5-7230-4291-ab2f-27bdf4a64554")
+		(sheetname "/")
+		(sheetfile "ttl-io.kicad_sch")
+		(attr through_hole)
+		(fp_circle
+			(center 0 0)
+			(end 1.5 0)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(fill no)
+			(layer "F.SilkS")
+			(uuid "2e6a41e2-561b-479b-a652-856e7227ec4c")
+		)
+		(fp_circle
+			(center 0 0)
+			(end 1.8 0)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(fill no)
+			(layer "F.CrtYd")
+			(uuid "9a9a829e-7938-4ecb-9174-e6ff4b2071db")
+		)
+		(fp_line
+			(start -0.9 -0.2)
+			(end 0.9 -0.2)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "4595d52c-589f-4fb1-a55f-405e62308674")
+		)
+		(fp_line
+			(start -0.9 0.2)
+			(end -0.9 -0.2)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "140142a1-c9cc-4dce-aecf-d11654881f41")
+		)
+		(fp_line
+			(start 0.9 -0.2)
+			(end 0.9 0.2)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "8f718c4a-af9d-4d44-8be0-570041654946")
+		)
+		(fp_line
+			(start 0.9 0.2)
+			(end -0.9 0.2)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "de6bab3c-a469-4265-b86f-a08cb730cfb1")
+		)
+		(fp_circle
+			(center 0 0)
+			(end 1.3 0)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(fill no)
+			(layer "F.Fab")
+			(uuid "545bec23-31f2-42ff-91cc-387c4d5ef796")
+		)
+		(fp_text user "${REFERENCE}"
+			(at 0 -3.5 0)
+			(layer "F.Fab")
+			(uuid "514cc2c1-9449-443e-849c-94b342746767")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(pad "1" thru_hole circle
+			(at 0 0)
+			(size 2 2)
+			(drill 1)
+			(layers "*.Cu" "*.Mask")
+			(remove_unused_layers no)
+			(net 1 "GND")
+			(pinfunction "1")
+			(pintype "passive")
+			(uuid "172b392e-909a-45c0-845e-4f8f6a793c5e")
+		)
+		(embedded_fonts no)
+		(model "${KICAD8_3DMODEL_DIR}/TestPoint.3dshapes/TestPoint_Loop_D1.80mm_Drill1.0mm_Beaded.wrl"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
+	)
 	(footprint "0local:R_0603_1608Metric"
 		(layer "F.Cu")
 		(uuid "760c4ac9-5984-41ac-9421-a2851c622606")
@@ -4631,7 +5017,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.yageo.com/upload/media/product/products/datasheet/rchip/PYu-RC_Group_51_RoHS_L_12.pdf"
+		(property "Datasheet" "https://www.yageogroup.com/content/datasheet/asset/file/PYU-RC_GROUP_51_ROHS_L"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -4869,7 +5255,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.yageo.com/upload/media/product/products/datasheet/rchip/PYu-RC_Group_51_RoHS_L_12.pdf"
+		(property "Datasheet" "https://www.yageogroup.com/content/datasheet/asset/file/PYU-RC_GROUP_51_ROHS_L"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -5334,7 +5720,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.yageo.com/upload/media/product/products/datasheet/rchip/PYu-RC_Group_51_RoHS_L_12.pdf"
+		(property "Datasheet" "https://www.yageogroup.com/content/datasheet/asset/file/PYU-RC_GROUP_51_ROHS_L"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -6849,7 +7235,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.yageo.com/upload/media/product/products/datasheet/rchip/PYu-RC_Group_51_RoHS_L_12.pdf"
+		(property "Datasheet" "https://www.yageogroup.com/content/datasheet/asset/file/PYU-RC_GROUP_51_ROHS_L"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -7663,7 +8049,7 @@
 		(descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor")
 		(property "Reference" "R19"
-			(at 2.25 0.75 180)
+			(at 2.25 0 180)
 			(layer "F.SilkS")
 			(uuid "de6ac55f-c711-403c-bef4-9ad3b0c0e5b2")
 			(effects
@@ -9193,7 +9579,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.yageo.com/upload/media/product/products/datasheet/rchip/PYu-RC_Group_51_RoHS_L_12.pdf"
+		(property "Datasheet" "https://www.yageogroup.com/content/datasheet/asset/file/PYU-RC_GROUP_51_ROHS_L"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -9409,10 +9795,10 @@
 		(at 162.75 78.25)
 		(descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor")
-		(property "Reference" "R15"
+		(property "Reference" "R12"
 			(at -2 0 90)
 			(layer "F.SilkS")
-			(uuid "e2ac5782-a73a-437c-8e6d-2222608d567c")
+			(uuid "18b6c95d-2639-49e3-b4a5-139f7a4188d6")
 			(effects
 				(font
 					(size 1 1)
@@ -9423,7 +9809,7 @@
 		(property "Value" "1k"
 			(at 0 1 0)
 			(layer "F.Fab")
-			(uuid "3d50e3a0-a9ce-4ba2-9f3c-8e89cd46e860")
+			(uuid "2b0b7b2d-97ce-44e0-b8de-8f3fbca23c29")
 			(effects
 				(font
 					(size 1 1)
@@ -9431,12 +9817,12 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.yageo.com/upload/media/product/products/datasheet/rchip/PYu-RC_Group_51_RoHS_L_12.pdf"
+		(property "Datasheet" "https://www.yageogroup.com/content/datasheet/asset/file/PYU-RC_51_ROHS_P"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "d6ec4700-d3a4-4226-93e8-937d6450f0f8")
+			(uuid "e704f76a-0b7a-4005-a0d6-08b5036805ff")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9449,7 +9835,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "f682e1b0-0421-436d-b22b-66328ff18eff")
+			(uuid "317b1855-6236-4b42-a78e-65c4f089559c")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9648,7 +10034,7 @@
 		(property "Reference" "J2"
 			(at 0.5 -6 180)
 			(layer "F.SilkS")
-			(uuid "a8e5e7c4-23b0-4323-9a02-2136b64bb957")
+			(uuid "0c6de79b-07b5-49fb-9456-5570a731e8a2")
 			(effects
 				(font
 					(size 1 1)
@@ -9659,7 +10045,7 @@
 		(property "Value" "430451628"
 			(at 0 3.2 90)
 			(layer "F.Fab")
-			(uuid "7df8136f-7d4c-46f1-9571-5a02bd8ad7dd")
+			(uuid "bfef4ad8-ff6f-47ac-b748-a236c00eaa20")
 			(effects
 				(font
 					(size 0.787402 0.787402)
@@ -9671,7 +10057,7 @@
 			(at 10.5 1.5 90)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "948a383b-eaaf-411e-ae5d-bead5f7dc6e5")
+			(uuid "3d783c3f-d0ce-4fc9-b1ce-3f576b3bda1a")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9683,7 +10069,7 @@
 			(at 10.5 1.5 90)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "16818a5d-c0eb-4265-931e-b6534a445430")
+			(uuid "d4a26d85-5a19-4720-8043-2af22514643e")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10900,7 +11286,7 @@
 				)
 			)
 		)
-		(property "Digikey" "754-1116"
+		(property "Digikey" "754-1116-2-ND"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -11084,199 +11470,6 @@
 		)
 		(embedded_fonts no)
 		(model "${KICAD8_3DMODEL_DIR}/LED_SMD.3dshapes/LED_0603_1608Metric.wrl"
-			(offset
-				(xyz 0 0 0)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz 0 0 0)
-			)
-		)
-	)
-	(footprint "0local:TestPoint_Loop_D1.80mm_Drill1.0mm_Beaded"
-		(layer "F.Cu")
-		(uuid "d2951aa7-a366-405b-8038-276bdd1db8b9")
-		(at 130 97.5)
-		(descr "wire loop with bead as test point, loop diameter 1.8mm, hole diameter 1.0mm")
-		(tags "test point wire loop bead")
-		(property "Reference" "TP2"
-			(at 0 -3.5 0)
-			(layer "F.SilkS")
-			(uuid "6d263651-3f70-4e69-bd56-c9959ed2d15f")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Value" "TestPoint"
-			(at 2.5 -1.25 90)
-			(layer "F.Fab")
-			(uuid "06f9bb13-424e-4bb3-a24f-8f091ebb24a6")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Datasheet" "https://www.keyelco.com/userAssets/file/M65p56.pdf"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "1619d710-78aa-4318-88b4-5e55e5e55fe0")
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Description" "Red PC Test Point, Miniature Phosphor Bronze Silver Plating Through Hole Mounting Type"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "778cebc3-4c00-4297-8fbe-33519269b8e2")
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Digikey" "36-5000-ND"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "19fbbd1a-7d1a-49c6-810e-025eecdcd29b")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "MPN" "5000"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "c09bf02d-6d37-4a18-a412-f24c330e4626")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property ki_fp_filters "Pin* Test*")
-		(path "/b7b1adc8-e8d0-4aac-bbff-85d1cb1790a7")
-		(sheetname "/")
-		(sheetfile "ttl-io.kicad_sch")
-		(attr through_hole)
-		(fp_circle
-			(center 0 0)
-			(end 1.5 0)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(fill no)
-			(layer "F.SilkS")
-			(uuid "bc7e53ca-a20b-4e33-8f7f-73e5cd701090")
-		)
-		(fp_circle
-			(center 0 0)
-			(end 1.8 0)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(fill no)
-			(layer "F.CrtYd")
-			(uuid "abb91ff7-2ac3-4090-bda8-d0c860e28e1f")
-		)
-		(fp_line
-			(start -0.9 -0.2)
-			(end 0.9 -0.2)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "F.Fab")
-			(uuid "cd3717b5-6190-4a75-b26e-585713383fe3")
-		)
-		(fp_line
-			(start -0.9 0.2)
-			(end -0.9 -0.2)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "F.Fab")
-			(uuid "ecdf3d58-3ccc-485b-baef-ec18a6d4722c")
-		)
-		(fp_line
-			(start 0.9 -0.2)
-			(end 0.9 0.2)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "F.Fab")
-			(uuid "715436ee-f004-4192-8d88-01264d02da2c")
-		)
-		(fp_line
-			(start 0.9 0.2)
-			(end -0.9 0.2)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "F.Fab")
-			(uuid "33477015-684a-4f89-924b-24f3650da6e0")
-		)
-		(fp_circle
-			(center 0 0)
-			(end 1.3 0)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(fill no)
-			(layer "F.Fab")
-			(uuid "bb36f46c-be38-4d73-87ae-b622a254541f")
-		)
-		(fp_text user "${REFERENCE}"
-			(at 0 -3.5 0)
-			(layer "F.Fab")
-			(uuid "4a780c22-852b-4d0d-8683-3f4b3c85c020")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(pad "1" thru_hole circle
-			(at 0 0)
-			(size 2 2)
-			(drill 1)
-			(layers "*.Cu" "*.Mask")
-			(remove_unused_layers no)
-			(net 1 "GND")
-			(pinfunction "1")
-			(pintype "passive")
-			(uuid "c9a1c554-adbc-49b6-819c-73b286fbe618")
-		)
-		(embedded_fonts no)
-		(model "${KICAD8_3DMODEL_DIR}/TestPoint.3dshapes/TestPoint_Loop_D1.80mm_Drill1.0mm_Beaded.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -11543,7 +11736,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.yageo.com/upload/media/product/products/datasheet/rchip/PYu-RC_Group_51_RoHS_L_12.pdf"
+		(property "Datasheet" "https://www.yageogroup.com/content/datasheet/asset/file/PYU-RC_GROUP_51_ROHS_L"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -11781,7 +11974,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.yageo.com/upload/media/product/products/datasheet/rchip/PYu-RC_Group_51_RoHS_L_12.pdf"
+		(property "Datasheet" "https://www.yageogroup.com/content/datasheet/asset/file/PYU-RC_GROUP_51_ROHS_L"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -11991,199 +12184,6 @@
 			)
 		)
 	)
-	(footprint "0local:TestPoint_Loop_D1.80mm_Drill1.0mm_Beaded"
-		(layer "F.Cu")
-		(uuid "f628e74a-bebd-4920-ab1c-ef6df3e8739f")
-		(at 130 72.5)
-		(descr "wire loop with bead as test point, loop diameter 1.8mm, hole diameter 1.0mm")
-		(tags "test point wire loop bead")
-		(property "Reference" "TP1"
-			(at 0 3.5 0)
-			(layer "F.SilkS")
-			(uuid "f1a7c3e0-40f3-4f73-90ef-fdfc5a0bf17c")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Value" "TestPoint"
-			(at -1.75 1.25 90)
-			(layer "F.Fab")
-			(uuid "6ca205a5-78da-4bdd-882f-12d7e7c31a02")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Datasheet" "https://www.keyelco.com/userAssets/file/M65p56.pdf"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "36980006-26f7-4b31-8b63-d117558f7a1e")
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Description" "Red PC Test Point, Miniature Phosphor Bronze Silver Plating Through Hole Mounting Type"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "d106798d-1745-4835-8b41-ef52b8e2df25")
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Digikey" "36-5000-ND"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "04a7e554-b3ef-4193-aef9-1c875b124182")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "MPN" "5000"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "45c3702f-280a-47a6-bd26-f8c40e83f6b4")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property ki_fp_filters "Pin* Test*")
-		(path "/53803e65-7cc7-479f-a728-e35cb855a468")
-		(sheetname "/")
-		(sheetfile "ttl-io.kicad_sch")
-		(attr through_hole)
-		(fp_circle
-			(center 0 0)
-			(end 1.5 0)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(fill no)
-			(layer "F.SilkS")
-			(uuid "3bfd7884-8fdb-4d8b-972e-b2f083f1c2cd")
-		)
-		(fp_circle
-			(center 0 0)
-			(end 1.8 0)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(fill no)
-			(layer "F.CrtYd")
-			(uuid "9e35324e-f656-4da2-ab46-08105ef8a8ca")
-		)
-		(fp_line
-			(start -0.9 -0.2)
-			(end 0.9 -0.2)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "F.Fab")
-			(uuid "abee6cfe-189b-444c-9260-1794ea790283")
-		)
-		(fp_line
-			(start -0.9 0.2)
-			(end -0.9 -0.2)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "F.Fab")
-			(uuid "0ef7b5a8-f714-48ef-a242-371734b5b111")
-		)
-		(fp_line
-			(start 0.9 -0.2)
-			(end 0.9 0.2)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "F.Fab")
-			(uuid "fe9f124f-6cee-46f4-9ec1-2cca8fcc2df2")
-		)
-		(fp_line
-			(start 0.9 0.2)
-			(end -0.9 0.2)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "F.Fab")
-			(uuid "c628b39f-8b38-4a09-99c4-0318cac2229d")
-		)
-		(fp_circle
-			(center 0 0)
-			(end 1.3 0)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(fill no)
-			(layer "F.Fab")
-			(uuid "65378473-13be-490c-8940-f74446109446")
-		)
-		(fp_text user "${REFERENCE}"
-			(at 0 3.5 0)
-			(layer "F.Fab")
-			(uuid "911b0962-c270-4f28-b116-ab7dcb4b90cd")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(pad "1" thru_hole circle
-			(at 0 0)
-			(size 2 2)
-			(drill 1)
-			(layers "*.Cu" "*.Mask")
-			(remove_unused_layers no)
-			(net 2 "+3.3V")
-			(pinfunction "1")
-			(pintype "passive")
-			(uuid "9e335e60-9acb-4124-9e79-909f09439f13")
-		)
-		(embedded_fonts no)
-		(model "${KICAD8_3DMODEL_DIR}/TestPoint.3dshapes/TestPoint_Loop_D1.80mm_Drill1.0mm_Beaded.wrl"
-			(offset
-				(xyz 0 0 0)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz 0 0 0)
-			)
-		)
-	)
 	(footprint "0local:R_0603_1608Metric"
 		(layer "F.Cu")
 		(uuid "fbc23c4d-7fc8-410e-8ba0-e3b700458b18")
@@ -12212,7 +12212,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.yageo.com/upload/media/product/products/datasheet/rchip/PYu-RC_Group_51_RoHS_L_12.pdf"
+		(property "Datasheet" "https://www.yageogroup.com/content/datasheet/asset/file/PYU-RC_GROUP_51_ROHS_L"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -12450,7 +12450,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.yageo.com/upload/media/product/products/datasheet/rchip/PYu-RC_Group_51_RoHS_L_12.pdf"
+		(property "Datasheet" "https://www.yageogroup.com/content/datasheet/asset/file/PYU-RC_51_ROHS_P"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -12924,7 +12924,7 @@
 			)
 		)
 		(property "Value" "1k"
-			(at 1.25 1.5 180)
+			(at 1.75 -1.75 180)
 			(layer "B.Fab")
 			(uuid "5b8e4366-57ea-4ce3-9006-388a19bfc7c0")
 			(effects
@@ -12935,7 +12935,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" "https://www.yageo.com/upload/media/product/products/datasheet/rchip/PYu-RC_Group_51_RoHS_L_12.pdf"
+		(property "Datasheet" "https://www.yageogroup.com/content/datasheet/asset/file/PYU-RC_51_ROHS_P"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -13648,7 +13648,7 @@
 			)
 		)
 		(property "Value" "1u"
-			(at 2.5 0 90)
+			(at -2.5 -1.25 90)
 			(layer "B.Fab")
 			(uuid "b3cf1c8b-8cfb-4821-9e98-41e397428aee")
 			(effects
@@ -13659,7 +13659,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" "https://www.yageo.com/upload/media/product/productsearch/datasheet/mlcc/UPY-GPHC_X7R_6.3V-to-250V_24.pdf"
+		(property "Datasheet" "https://www.yageogroup.com/content/datasheet/asset/file/UPY-GPHC_X7R_6_3V-TO-250V"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -16833,7 +16833,7 @@
 		)
 	)
 	(gr_rect
-		(start 135.9225 75.475)
+		(start 135.9225 74.725)
 		(end 139.0775 87.525)
 		(stroke
 			(width 0.15)
@@ -16945,7 +16945,7 @@
 		(uuid "30944a40-ed6d-44ea-9a57-f2256fb7318c")
 	)
 	(gr_text "SN:"
-		(at 137 72.5 270)
+		(at 137 71.75 270)
 		(layer "F.SilkS")
 		(uuid "61797501-084f-4aaf-bf52-bf5e42cb6dcc")
 		(effects

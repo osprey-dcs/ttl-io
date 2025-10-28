@@ -3043,7 +3043,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "TestPoint"
+	(symbol "TestPointBlack"
 		(pin_numbers
 			(hide yes)
 		)
@@ -3063,7 +3063,135 @@
 				(justify left)
 			)
 		)
-		(property "Value" "TestPoint"
+		(property "Value" "TestPointBlack"
+			(at 2.54 2.0321 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "0local:TestPoint_Loop_D1.80mm_Drill1.0mm_Beaded"
+			(at 5.08 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.keyelco.com/userAssets/file/M65p56.pdf"
+			(at 5.08 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Black PC Test Point, Miniature Phosphor Bronze Silver Plating Through Hole Mounting Type"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey" "36-5001-ND"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "5001"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ki_keywords" "test point tp"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ki_fp_filters" "Pin* Test*"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(symbol "TestPointBlack_0_1"
+			(circle
+				(center 0 3.302)
+				(radius 0.762)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+		)
+		(symbol "TestPointBlack_1_1"
+			(pin passive line
+				(at 0 1.27 90)
+				(length 1.27)
+				(name "1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+		)
+		(embedded_fonts no)
+	)
+	(symbol "TestPointRed"
+		(pin_numbers
+			(hide yes)
+		)
+		(pin_names
+			(offset 0.762)
+			(hide yes)
+		)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(property "Reference" "TP1"
+			(at -1.524 6.096 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "TestPointRed"
 			(at 2.54 2.0321 0)
 			(effects
 				(font
@@ -3136,7 +3264,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "TestPoint_0_1"
+		(symbol "TestPointRed_0_1"
 			(circle
 				(center 0 3.302)
 				(radius 0.762)
@@ -3149,7 +3277,7 @@
 				)
 			)
 		)
-		(symbol "TestPoint_1_1"
+		(symbol "TestPointRed_1_1"
 			(pin passive line
 				(at 0 1.27 90)
 				(length 1.27)
