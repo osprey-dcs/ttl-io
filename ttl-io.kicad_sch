@@ -4,6 +4,11 @@
 	(generator_version "9.0")
 	(uuid "c58eba57-e11a-4091-8cda-9e71ea4f3e44")
 	(paper "A4")
+	(title_block
+		(title "LVTTL PMOD")
+		(company "SPDX-FileCopyrightText: 2025 Osprey DCS")
+		(comment 1 "SPDX-License-Identifier: CERN-OHL-S-2.0+")
+	)
 	(lib_symbols
 		(symbol "0local:430451628"
 			(pin_names
@@ -13418,7 +13423,7 @@
 	)
 	(symbol
 		(lib_id "Graphic:Logo_Open_Hardware_Small")
-		(at 185.42 173.99 0)
+		(at 274.32 175.26 0)
 		(unit 1)
 		(exclude_from_sim yes)
 		(in_bom no)
@@ -13427,7 +13432,7 @@
 		(fields_autoplaced yes)
 		(uuid "d487debc-3e7b-4aa2-9c03-954a947845a5")
 		(property "Reference" "Logo1"
-			(at 185.42 167.005 0)
+			(at 274.32 168.275 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13436,7 +13441,7 @@
 			)
 		)
 		(property "Value" "Logo_Open_Hardware_Small"
-			(at 185.42 179.705 0)
+			(at 274.32 180.975 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13445,7 +13450,7 @@
 			)
 		)
 		(property "Footprint" "0local:Logo_2X"
-			(at 185.42 173.99 0)
+			(at 274.32 175.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13454,7 +13459,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 185.42 173.99 0)
+			(at 274.32 175.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13463,7 +13468,7 @@
 			)
 		)
 		(property "Description" "Open Hardware logo, small"
-			(at 185.42 173.99 0)
+			(at 274.32 175.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13472,7 +13477,7 @@
 			)
 		)
 		(property "MPN" "DNI"
-			(at 185.42 173.99 0)
+			(at 274.32 175.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
