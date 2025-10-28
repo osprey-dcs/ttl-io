@@ -832,4 +832,15 @@
 		(uuid "9d729e5d-db0a-4f02-93e6-cbc5a9583979")
 	)
 	(embedded_fonts no)
+	(model "${KIPRJMOD}/0local.pretty/430451628.stp.gz"
+		(offset
+			(xyz 0 0 5)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -0 -0 -0)
+		)
+	)
 )

@@ -10930,6 +10930,17 @@
 			(uuid "8e64f73d-99e6-449e-a4cc-5f325c5c1eae")
 		)
 		(embedded_fonts no)
+		(model "${KIPRJMOD}/0local.pretty/430451628.stp.gz"
+			(offset
+				(xyz 0 0 5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -0)
+			)
+		)
 	)
 	(footprint "0local:SN74LVC3G34DCT"
 		(layer "F.Cu")
