@@ -31,6 +31,13 @@ jobs:
           output/*report.txt
           output/*.csv
           output/gerber/*
+    - name: Upload gh-pages preview
+      id: ghpages
+      uses: actions/upload-pages-artifact@v3
+      with:
+        retention-days: 7
+        path: output/
+
 
   diff:
     name: Difference
@@ -71,7 +78,7 @@ jobs:
 
     environment:
       name: github-pages
-      url: ${{ steps.everything.outputs.page_url }}
+      url: ${{ steps.ghpages.outputs.page_url }}
 
     steps:
       - name: Deploy to GitHub Pages
