@@ -14,6 +14,7 @@ jobs:
         config: .github/kibot-fab.yaml
         verbose: 1
     - name: Full output
+      id: everything
       uses: actions/upload-artifact@v4
       if: ${{ always() }}
       with:
@@ -27,8 +28,9 @@ jobs:
         compression-level: 9
         if-no-files-found: 'error'
         path: |
-          output/gerber/*
+          output/*report.txt
           output/*.csv
+          output/gerber/*
 
   diff:
     name: Difference
@@ -55,3 +57,23 @@ jobs:
         compression-level: 9
         if-no-files-found: 'error'
         path: diff
+
+  publish:
+    runs-on: ubuntu-latest
+
+    if: github.ref=='refs/heads/main'
+    needs: fab
+
+    permissions:
+      contents: read
+      pages: write
+      id-token: write
+
+    environment:
+      name: github-pages
+      url: ${{ steps.everything.outputs.page_url }}
+
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

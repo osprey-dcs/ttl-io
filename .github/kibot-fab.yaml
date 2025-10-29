@@ -75,3 +75,5 @@ outputs:
 
   - name: navigate
     type: navigate_results
+    options:
+      link_from_root: "index.html"
