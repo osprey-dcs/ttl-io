@@ -69,10 +69,10 @@
 		)
 	)
 	(attr smd)
-	(pad "" np_thru_hole circle
+	(pad "" np_thru_hole oval
 		(at 0 0)
-		(size 3 3)
-		(drill 3)
+		(size 3.5 3)
+		(drill oval 3.5 3)
 		(layers "F&B.Cu")
 		(clearance 2)
 		(uuid "512efecd-303a-4f6f-aae7-fd3949eae422")
