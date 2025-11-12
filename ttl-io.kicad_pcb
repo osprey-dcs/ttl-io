@@ -9,7 +9,7 @@
 	(paper "USLetter")
 	(title_block
 		(title "LVTTL PMOD")
-		(date "2025-11-04")
+		(date "2025-11-12")
 		(rev "v1.0")
 		(company "SPDX-FileCopyrightText: 2025 Osprey DCS")
 		(comment 1 "SPDX-License-Identifier: CERN-OHL-S-2.0+")
@@ -520,7 +520,7 @@
 				)
 			)
 		)
-		(property "Description" "10 Ohms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Moisture Resistant Thick Film"
+		(property "Description" "10 Ohms ±1% 0.125W, 1/8W Chip Resistor 0805 (2012 Metric) Moisture Resistant Thick Film"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -533,7 +533,7 @@
 				)
 			)
 		)
-		(property "Digikey" "13-RC0603FR-1310RLTR-ND"
+		(property "Digikey" "13-RC0805FR-1310RLTR-ND"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -546,7 +546,7 @@
 				)
 			)
 		)
-		(property "MPN" "RC0603FR-1310RL"
+		(property "MPN" "RC0805FR-1310RL"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -1905,7 +1905,7 @@
 				)
 			)
 		)
-		(property "Description" "10 Ohms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Moisture Resistant Thick Film"
+		(property "Description" "10 Ohms ±1% 0.125W, 1/8W Chip Resistor 0805 (2012 Metric) Moisture Resistant Thick Film"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -1918,7 +1918,7 @@
 				)
 			)
 		)
-		(property "Digikey" "13-RC0603FR-1310RLTR-ND"
+		(property "Digikey" "13-RC0805FR-1310RLTR-ND"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -1931,7 +1931,7 @@
 				)
 			)
 		)
-		(property "MPN" "RC0603FR-1310RL"
+		(property "MPN" "RC0805FR-1310RL"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -2697,7 +2697,7 @@
 				)
 			)
 		)
-		(property "Description" "10 Ohms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Moisture Resistant Thick Film"
+		(property "Description" "10 Ohms ±1% 0.125W, 1/8W Chip Resistor 0805 (2012 Metric) Moisture Resistant Thick Film"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -2710,7 +2710,7 @@
 				)
 			)
 		)
-		(property "Digikey" "13-RC0603FR-1310RLTR-ND"
+		(property "Digikey" "13-RC0805FR-1310RLTR-ND"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -2723,7 +2723,7 @@
 				)
 			)
 		)
-		(property "MPN" "RC0603FR-1310RL"
+		(property "MPN" "RC0805FR-1310RL"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -2924,7 +2924,7 @@
 				)
 			)
 		)
-		(property "Description" "10 Ohms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Moisture Resistant Thick Film"
+		(property "Description" "10 Ohms ±1% 0.125W, 1/8W Chip Resistor 0805 (2012 Metric) Moisture Resistant Thick Film"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -2937,7 +2937,7 @@
 				)
 			)
 		)
-		(property "Digikey" "13-RC0603FR-1310RLTR-ND"
+		(property "Digikey" "13-RC0805FR-1310RLTR-ND"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -2950,7 +2950,7 @@
 				)
 			)
 		)
-		(property "MPN" "RC0603FR-1310RL"
+		(property "MPN" "RC0805FR-1310RL"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -3389,7 +3389,7 @@
 				)
 			)
 		)
-		(property "Description" "10 Ohms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Moisture Resistant Thick Film"
+		(property "Description" "10 Ohms ±1% 0.125W, 1/8W Chip Resistor 0805 (2012 Metric) Moisture Resistant Thick Film"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -3402,7 +3402,7 @@
 				)
 			)
 		)
-		(property "Digikey" "13-RC0603FR-1310RLTR-ND"
+		(property "Digikey" "13-RC0805FR-1310RLTR-ND"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -3415,7 +3415,7 @@
 				)
 			)
 		)
-		(property "MPN" "RC0603FR-1310RL"
+		(property "MPN" "RC0805FR-1310RL"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -4250,7 +4250,7 @@
 				)
 			)
 		)
-		(property "Description" "10 Ohms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Moisture Resistant Thick Film"
+		(property "Description" "10 Ohms ±1% 0.125W, 1/8W Chip Resistor 0805 (2012 Metric) Moisture Resistant Thick Film"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -4263,7 +4263,7 @@
 				)
 			)
 		)
-		(property "Digikey" "13-RC0603FR-1310RLTR-ND"
+		(property "Digikey" "13-RC0805FR-1310RLTR-ND"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -4276,7 +4276,7 @@
 				)
 			)
 		)
-		(property "MPN" "RC0603FR-1310RL"
+		(property "MPN" "RC0805FR-1310RL"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -5435,7 +5435,7 @@
 				)
 			)
 		)
-		(property "Description" "10 Ohms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Moisture Resistant Thick Film"
+		(property "Description" "10 Ohms ±1% 0.125W, 1/8W Chip Resistor 0805 (2012 Metric) Moisture Resistant Thick Film"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -5448,7 +5448,7 @@
 				)
 			)
 		)
-		(property "Digikey" "13-RC0603FR-1310RLTR-ND"
+		(property "Digikey" "13-RC0805FR-1310RLTR-ND"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -5461,7 +5461,7 @@
 				)
 			)
 		)
-		(property "MPN" "RC0603FR-1310RL"
+		(property "MPN" "RC0805FR-1310RL"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -6788,7 +6788,7 @@
 				)
 			)
 		)
-		(property "Description" "10 Ohms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Moisture Resistant Thick Film"
+		(property "Description" "10 Ohms ±1% 0.125W, 1/8W Chip Resistor 0805 (2012 Metric) Moisture Resistant Thick Film"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -6801,7 +6801,7 @@
 				)
 			)
 		)
-		(property "Digikey" "13-RC0603FR-1310RLTR-ND"
+		(property "Digikey" "13-RC0805FR-1310RLTR-ND"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -6814,7 +6814,7 @@
 				)
 			)
 		)
-		(property "MPN" "RC0603FR-1310RL"
+		(property "MPN" "RC0805FR-1310RL"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -7015,7 +7015,7 @@
 				)
 			)
 		)
-		(property "Description" "10 Ohms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Moisture Resistant Thick Film"
+		(property "Description" "10 Ohms ±1% 0.125W, 1/8W Chip Resistor 0805 (2012 Metric) Moisture Resistant Thick Film"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -7028,7 +7028,7 @@
 				)
 			)
 		)
-		(property "Digikey" "13-RC0603FR-1310RLTR-ND"
+		(property "Digikey" "13-RC0805FR-1310RLTR-ND"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -7041,7 +7041,7 @@
 				)
 			)
 		)
-		(property "MPN" "RC0603FR-1310RL"
+		(property "MPN" "RC0805FR-1310RL"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -7718,7 +7718,7 @@
 				)
 			)
 		)
-		(property "Description" "10 Ohms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Moisture Resistant Thick Film"
+		(property "Description" "10 Ohms ±1% 0.125W, 1/8W Chip Resistor 0805 (2012 Metric) Moisture Resistant Thick Film"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -7731,7 +7731,7 @@
 				)
 			)
 		)
-		(property "Digikey" "13-RC0603FR-1310RLTR-ND"
+		(property "Digikey" "13-RC0805FR-1310RLTR-ND"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -7744,7 +7744,7 @@
 				)
 			)
 		)
-		(property "MPN" "RC0603FR-1310RL"
+		(property "MPN" "RC0805FR-1310RL"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -9516,7 +9516,7 @@
 				)
 			)
 		)
-		(property "Description" "10 Ohms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Moisture Resistant Thick Film"
+		(property "Description" "10 Ohms ±1% 0.125W, 1/8W Chip Resistor 0805 (2012 Metric) Moisture Resistant Thick Film"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -9529,7 +9529,7 @@
 				)
 			)
 		)
-		(property "Digikey" "13-RC0603FR-1310RLTR-ND"
+		(property "Digikey" "13-RC0805FR-1310RLTR-ND"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -9542,7 +9542,7 @@
 				)
 			)
 		)
-		(property "MPN" "RC0603FR-1310RL"
+		(property "MPN" "RC0805FR-1310RL"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -10529,7 +10529,7 @@
 				)
 			)
 		)
-		(property "Description" "10 Ohms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Moisture Resistant Thick Film"
+		(property "Description" "10 Ohms ±1% 0.125W, 1/8W Chip Resistor 0805 (2012 Metric) Moisture Resistant Thick Film"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -10542,7 +10542,7 @@
 				)
 			)
 		)
-		(property "Digikey" "13-RC0603FR-1310RLTR-ND"
+		(property "Digikey" "13-RC0805FR-1310RLTR-ND"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -10555,7 +10555,7 @@
 				)
 			)
 		)
-		(property "MPN" "RC0603FR-1310RL"
+		(property "MPN" "RC0805FR-1310RL"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
