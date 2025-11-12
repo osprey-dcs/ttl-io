@@ -533,7 +533,7 @@
 				)
 			)
 		)
-		(property "Digikey" "13-RC0805FR-1310RLTR-ND"
+		(property "Digikey" "13-RC0805FR-1010RLTR-ND"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -546,7 +546,7 @@
 				)
 			)
 		)
-		(property "MPN" "RC0805FR-1310RL"
+		(property "MPN" "RC0805FR-1010RL"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -1918,7 +1918,7 @@
 				)
 			)
 		)
-		(property "Digikey" "13-RC0805FR-1310RLTR-ND"
+		(property "Digikey" "13-RC0805FR-1010RLTR-ND"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -1931,7 +1931,7 @@
 				)
 			)
 		)
-		(property "MPN" "RC0805FR-1310RL"
+		(property "MPN" "RC0805FR-1010RL"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -2710,7 +2710,7 @@
 				)
 			)
 		)
-		(property "Digikey" "13-RC0805FR-1310RLTR-ND"
+		(property "Digikey" "13-RC0805FR-1010RLTR-ND"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -2723,7 +2723,7 @@
 				)
 			)
 		)
-		(property "MPN" "RC0805FR-1310RL"
+		(property "MPN" "RC0805FR-1010RL"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -2937,7 +2937,7 @@
 				)
 			)
 		)
-		(property "Digikey" "13-RC0805FR-1310RLTR-ND"
+		(property "Digikey" "13-RC0805FR-1010RLTR-ND"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -2950,7 +2950,7 @@
 				)
 			)
 		)
-		(property "MPN" "RC0805FR-1310RL"
+		(property "MPN" "RC0805FR-1010RL"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -3402,7 +3402,7 @@
 				)
 			)
 		)
-		(property "Digikey" "13-RC0805FR-1310RLTR-ND"
+		(property "Digikey" "13-RC0805FR-1010RLTR-ND"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -3415,7 +3415,7 @@
 				)
 			)
 		)
-		(property "MPN" "RC0805FR-1310RL"
+		(property "MPN" "RC0805FR-1010RL"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -4263,7 +4263,7 @@
 				)
 			)
 		)
-		(property "Digikey" "13-RC0805FR-1310RLTR-ND"
+		(property "Digikey" "13-RC0805FR-1010RLTR-ND"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -4276,7 +4276,7 @@
 				)
 			)
 		)
-		(property "MPN" "RC0805FR-1310RL"
+		(property "MPN" "RC0805FR-1010RL"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -5448,7 +5448,7 @@
 				)
 			)
 		)
-		(property "Digikey" "13-RC0805FR-1310RLTR-ND"
+		(property "Digikey" "13-RC0805FR-1010RLTR-ND"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -5461,7 +5461,7 @@
 				)
 			)
 		)
-		(property "MPN" "RC0805FR-1310RL"
+		(property "MPN" "RC0805FR-1010RL"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -6801,7 +6801,7 @@
 				)
 			)
 		)
-		(property "Digikey" "13-RC0805FR-1310RLTR-ND"
+		(property "Digikey" "13-RC0805FR-1010RLTR-ND"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -6814,7 +6814,7 @@
 				)
 			)
 		)
-		(property "MPN" "RC0805FR-1310RL"
+		(property "MPN" "RC0805FR-1010RL"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -7028,7 +7028,7 @@
 				)
 			)
 		)
-		(property "Digikey" "13-RC0805FR-1310RLTR-ND"
+		(property "Digikey" "13-RC0805FR-1010RLTR-ND"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -7041,7 +7041,7 @@
 				)
 			)
 		)
-		(property "MPN" "RC0805FR-1310RL"
+		(property "MPN" "RC0805FR-1010RL"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -7731,7 +7731,7 @@
 				)
 			)
 		)
-		(property "Digikey" "13-RC0805FR-1310RLTR-ND"
+		(property "Digikey" "13-RC0805FR-1010RLTR-ND"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -7744,7 +7744,7 @@
 				)
 			)
 		)
-		(property "MPN" "RC0805FR-1310RL"
+		(property "MPN" "RC0805FR-1010RL"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -9529,7 +9529,7 @@
 				)
 			)
 		)
-		(property "Digikey" "13-RC0805FR-1310RLTR-ND"
+		(property "Digikey" "13-RC0805FR-1010RLTR-ND"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -9542,7 +9542,7 @@
 				)
 			)
 		)
-		(property "MPN" "RC0805FR-1310RL"
+		(property "MPN" "RC0805FR-1010RL"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -10542,7 +10542,7 @@
 				)
 			)
 		)
-		(property "Digikey" "13-RC0805FR-1310RLTR-ND"
+		(property "Digikey" "13-RC0805FR-1010RLTR-ND"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -10555,7 +10555,7 @@
 				)
 			)
 		)
-		(property "MPN" "RC0805FR-1310RL"
+		(property "MPN" "RC0805FR-1010RL"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
