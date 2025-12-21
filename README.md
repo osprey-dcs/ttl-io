@@ -1,6 +1,6 @@
 # Osprey Quartz LVTTL I/O Daughter Board
 
-![Render](lvttl-io.png)
+![Photo](lvttl-io.png)
 
 A PMOD compatible board providing 4 input and 
 4 output bits of LVTTL binary I/O.
