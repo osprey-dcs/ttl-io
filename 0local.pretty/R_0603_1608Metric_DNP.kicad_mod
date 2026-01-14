@@ -1,4 +1,4 @@
-(footprint "R_0603_1608Metric"
+(footprint "R_0603_1608Metric_DNP"
 	(version 20241229)
 	(generator "pcbnew")
 	(generator_version "9.0")
@@ -54,16 +54,25 @@
 		)
 	)
 	(attr smd)
-	(fp_rect
+	(fp_line
 		(start -0.237258 -0.5225)
+		(end 0.237258 -0.5225)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "733d3900-df8c-4592-874f-b69ed88822fa")
+	)
+	(fp_line
+		(start -0.237258 0.5225)
 		(end 0.237258 0.5225)
 		(stroke
 			(width 0.1)
-			(type solid)
+			(type default)
 		)
-		(fill yes)
 		(layer "F.SilkS")
-		(uuid "968cddfe-4eee-400a-8a14-3a30dcf62fe0")
+		(uuid "ed06e8ca-a7fc-47d2-b19f-90f16825823e")
 	)
 	(fp_line
 		(start -1.48 -0.73)
